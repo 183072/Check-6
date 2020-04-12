@@ -1,0 +1,58 @@
+/* Body */
+body {
+    background-color: hsla(0,0%,0%,0.20);
+}
+
+p {
+	padding: 10px;
+}
+/* Header */
+.header {
+    background-image: url(../images/mistyroads.jpg);
+    color: #FFFFFF;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    line-height: 3;
+}
+
+/* Menu */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navigation links */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Style change on hover */
+.navbar a:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Section 1 */
+.section1 {
+	background-color: hsla(0,0%,0%,0.20);
+	display: inline-block;
+	width: 80%;
+	float: left;
+}
+
+/* Image */
+.aside1 {
+	display: inline-block;
+	width: 20%;
+	float: left;	
+}
+
+.img-container {
+        text-align: center;
+		display:block;
+}
